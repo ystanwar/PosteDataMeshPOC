@@ -10,7 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
-				"fileName": "copiedMovies",
+				"fileName": "imdb.csv",
 				"container": "movies"
 			},
 			"columnDelimiter": ",",
