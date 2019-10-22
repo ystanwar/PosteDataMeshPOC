@@ -10,8 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
-				"fileName": "imdb_movies_adls.csv",
-				"container": "movies"
+				"fileName": "imdb_movies_adls.csv"
 			},
 			"columnDelimiter": ",",
 			"escapeChar": "\\",
